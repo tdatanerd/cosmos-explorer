@@ -1,5 +1,5 @@
 {
-    "chain_name": "mozita-testnet",
+    "chain_name": "mozita-testnet-1",
     "api": [
         "http://207.244.243.120:1317"
     ],
