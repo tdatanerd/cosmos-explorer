@@ -1,0 +1,30 @@
+{
+    "chain_name": "mozita-testnet-1",
+    "api": [
+        "http://207.244.243.120:1317"
+    ],
+    "rpc": [
+        "http://207.244.243.120:26657"
+    ],
+    "coin_type": "118",
+    "sdk_version": "v0.50.4-0.20240126201553-f1da3a9865bb",
+    "addr_prefix": "mozi",
+    "min_tx_fee": "0",
+    "logo": "",
+    "assets": [
+        {
+            "symbol": "MOZITA",
+            "base": "amozi",
+            "exponent": 18,
+            "coingecko_id": "",
+            "logo": ""
+        },
+        {
+            "symbol": "USDC",
+            "base": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+            "exponent": 6,
+            "coingecko_id": "",
+            "logo": ""
+        }
+    ]
+}
