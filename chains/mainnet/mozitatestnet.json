@@ -1,10 +1,10 @@
 {
     "chain_name": "mozita-testnet-1",
     "api": [
-        "http://207.244.243.120:1317"
+        "https://stgexplorer.mozita.xyz/api"
     ],
     "rpc": [
-        "http://207.244.243.120:26657"
+        "https://stgexplorer.mozita.xyz/grpc"
     ],
     "coin_type": "118",
     "sdk_version": "v0.50.4-0.20240126201553-f1da3a9865bb",
